@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./assets/sparkui_logo.png" width="30" style="vertical-align: middle; margin-right: 3px;" />
-  M2-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining
+  M<sup>2</sup>-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining
 </h1>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 # 🎉 News
 - **2026-04-18:** We released the inference code.
-- **2026-02-05:** We released our paper, *M<sup>2</sup>-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining*.
+- **2026-02-05:** We released our paper, *M2-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining*.
 
 
 # 🚀 Motivation
