@@ -32,9 +32,9 @@
 ---
 
 # 🎉 News
-[2026-4-18] **We release inference code.**
-[2026-2-5] **We release our paper: M2-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining.**
----
+- **2026-04-18:** We released the inference code.
+- **2026-02-05:** We released our paper, *M2-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining*.
+
 
 # 🚀 Motivation
 
