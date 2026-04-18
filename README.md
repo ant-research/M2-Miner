@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="./assets/M2_Miner.png" alt="M2-Miner Framework" width="80%" />
-  <p><em>M2-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining</em></p>
+  <p><em>M<sup>2</sup>-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining</em></p>
 </div>
 
 ---
@@ -33,7 +33,7 @@
 
 # 🎉 News
 - **2026-04-18:** We released the inference code.
-- **2026-02-05:** We released our paper, *M2-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining*.
+- **2026-02-05:** We released our paper, *M<sup>2</sup>-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining*.
 
 
 # 🚀 Motivation
@@ -49,7 +49,7 @@ Compared to existing methods, our algorithm produces a more diverse set of inten
 
 # ✨ Highlights
 
-* 🤖 **Innovative MCTS-based GUI Agent Mining**: We introduce **M2-Miner**, the first automated MCTS-driven framework for GUI agent data mining, featuring a collaborative multi-agent system—**InferAgent, OrchestraAgent,** and **JudgeAgent**—that jointly boost mining efficiency and data quality.
+* 🤖 **Innovative MCTS-based GUI Agent Mining**: We introduce **M<sup>2</sup>-Miner**, the first automated MCTS-driven framework for GUI agent data mining, featuring a collaborative multi-agent system—**InferAgent, OrchestraAgent,** and **JudgeAgent**—that jointly boost mining efficiency and data quality.
 
 * 🔄 **Intent Recycling Strategy**: We propose a novel intent recycling mechanism that extracts a wealth of valuable interaction trajectories, significantly enriching intent diversity and further enhancing mining efficiency.
 
@@ -67,11 +67,11 @@ We thank the teams behind [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) and
 
 # 📄 Citation
 
-If you use works related to **M2-Miner**, please cite our work:
+If you use works related to **M<sup>2</sup>-Miner**, please cite our work:
 
 ```bibtex
 @misc{lv2026m2miner,
-      title={M2-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining}, 
+      title={M<sup>2</sup>-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining}, 
       author={Rui Lv, Juncheng Mo, Tianyi Chu, Chen Rao, Ziqiang Dang, Hongyi Jing, Jiajie Teng, Jiafu Chen, Shiqi Zhang, Liangzi Ding, Shuo Fang, Huaizhong Lin, Chenguang Ma, Lei Zhao},
       journal={arXiv preprint arXiv:2602.05429},
       year={2026},
