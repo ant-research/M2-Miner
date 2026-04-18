@@ -71,7 +71,7 @@ If you use works related to **M<sup>2</sup>-Miner**, please cite our work:
 
 ```bibtex
 @misc{lv2026m2miner,
-      title={M<sup>2</sup>-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining}, 
+      title={{M}$^{2}$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining}, 
       author={Rui Lv, Juncheng Mo, Tianyi Chu, Chen Rao, Ziqiang Dang, Hongyi Jing, Jiajie Teng, Jiafu Chen, Shiqi Zhang, Liangzi Ding, Shuo Fang, Huaizhong Lin, Chenguang Ma, Lei Zhao},
       journal={arXiv preprint arXiv:2602.05429},
       year={2026},
