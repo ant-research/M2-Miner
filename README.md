@@ -32,10 +32,14 @@
 
 ---
 
+<a id="news"></a>
+
 # 🎉 News
 - **2026-04-18:** We released the inference code.
 - **2026-02-05:** We released our paper, *M<sup>2</sup>-Miner: Multi-Agent Enhanced Monte Carlo Tree Search for Mobile GUI Agent Data Mining*.
 
+
+<a id="motivation"></a>
 
 # 🚀 Motivation
 
@@ -48,6 +52,8 @@ Compared to existing methods, our algorithm produces a more diverse set of inten
 
 ---
 
+<a id="highlights"></a>
+
 # ✨ Highlights
 
 * 🤖 **Innovative MCTS-based GUI Agent Mining**: We introduce **M<sup>2</sup>-Miner**, the first automated MCTS-driven framework for GUI agent data mining, featuring a collaborative multi-agent system—**InferAgent, OrchestraAgent,** and **JudgeAgent**—that jointly boost mining efficiency and data quality.
@@ -58,6 +64,9 @@ Compared to existing methods, our algorithm produces a more diverse set of inten
 
 * 👑 **Superior Mining Quality and SOTA Agent Performance**: Extensive experiments confirm that our method excels in mining high-quality, diverse intent trajectories, and GUI agents trained with our data consistently achieve state-of-the-art results on standard benchmarks.
 
+---
+
+<a id="experimental-results"></a>
 
 # 📊 Experimental Results
 
@@ -65,15 +74,21 @@ Compared to existing methods, our algorithm produces a more diverse set of inten
 
 *Table 1. Performance comparison on GUI agent benchmarks. Bold and underline indicate the best and second-best results.*
 
-
+---
 
 # 🤝 Acknowledgements
 
 We thank the teams behind [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) and [AndroidControl](https://github.com/google-research/google-research/tree/master/android_control) for their foundational work, and [ms-swift](https://github.com/modelscope/ms-swift) for the efficient training and inference framework. We also thank [AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) for providing evaluation code.
 
+---
+
 # 📄 License
 
 * Code in this repository is released under the [Apache-2.0](./LICENSE) license.
+
+---
+
+<a id="citation"></a>
 
 # 📄 Citation
 
@@ -89,5 +104,6 @@ If you use works related to **M<sup>2</sup>-Miner**, please cite our work:
       url={https://doi.org/10.48550/arXiv.2602.05429},
       note={Accepted by ICLR 2026}
 }
+
 ```
 If you are interested in our method or it helps your research, please give us a star 🌟 on GitHub.
