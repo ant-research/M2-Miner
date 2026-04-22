@@ -57,6 +57,15 @@ Compared to existing methods, our algorithm produces a more diverse set of inten
 
 * 👑 **Superior Mining Quality and SOTA Agent Performance**: Extensive experiments confirm that our method excels in mining high-quality, diverse intent trajectories, and GUI agents trained with our data consistently achieve state-of-the-art results on standard benchmarks.
 
+
+# 📊 Experimental Results
+
+![Experimental results](assets/gui_benchmark.png)
+
+*Table 1. Performance comparison on GUI agent benchmarks. Bold and underline indicate the best and second-best results.*
+
+
+
 # 🤝 Acknowledgements
 
 We thank the teams behind [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) and [AndroidControl](https://github.com/google-research/google-research/tree/master/android_control) for their foundational work, and [ms-swift](https://github.com/modelscope/ms-swift) for the efficient training and inference framework. We also thank [AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) for providing evaluation code.
